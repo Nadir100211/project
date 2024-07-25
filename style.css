@@ -1,0 +1,285 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100vw;
+    height: 140vh;
+}
+.menu{
+    height: 10vh;
+    width: 100vw;
+    background-color: white;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+a{
+     margin: 50px;
+     text-decoration: none;
+     color: black;
+}
+.p{
+    width: 100vw;
+    height: 10000vh;
+    background-color: rgb(39, 39, 39)
+}
+h1{
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    top: 20px;
+}
+.a{
+    color: white;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+}
+.v{
+width: 350px;
+height: 350px;
+margin: 20px;
+}
+.z{
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.aa{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.po{
+    display: flex;
+    color: white;
+    text-align: center  ;
+    justify-content: space-evenly;
+}
+.picture{
+    background: url(https://preview.colorlib.com/theme/rezume/images/image_1.jpg.webp);
+    width: 100vw;
+    height: 140vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.sd{
+    font-size: 50px;
+}
+.ds{
+    font-size: 20px;
+    color: white;
+}
+.ap{
+    width: 100vw;
+    height: 140vh;
+    background-color: rgba(0, 0, 0, 0.5) ;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.pon{
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    margin-top:50px ;
+
+}
+h2{
+    color: white;
+}
+.mnogo{
+    width: 510px;
+    height: 200.95px;
+    background: #333;
+    border-radius: 7px ;
+    padding: 30px;
+    margin:20px
+}
+.ton{
+    display: flex;
+    justify-content: center;
+}
+.green{
+    color: #bac964;
+}
+b{
+    color: white;
+}
+.moon{
+    color:rgb(104, 102, 102);
+}
+.pds{
+    width: 690px;
+    height: 471px;
+}
+.pictu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+p{
+    color: rgb(100, 100, 100);
+    font-size:x-large ;
+}
+.dfg{
+    color: white;
+    border-radius: 20px;
+    background-color: #bac964; 
+    border-color: #bac964;
+    width: 118px;
+    height: 36px;
+}
+.dfd{
+    border-radius: 20px;
+    color: white;
+    width: 170px;
+    height: 36px;
+    background-color: #5a6268; 
+    border-color: #5a6268;
+}
+input{
+    margin: 10px;
+}
+.black{
+    color: black;
+}
+.black:hover{
+    color:  #bac964;
+    transition: 1s;
+}
+.img-bruh{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+.pr{
+    color: #bac964;
+}
+.bruh{
+    font-size: 21px;
+}   
+.mnoga{
+    width: 510px;
+    height: 175.95px;
+    background: #333;
+    border-radius: 7px ;
+    padding: 30px;
+    margin:30px
+}
+.oi{
+    justify-content: center;
+    display: flex;
+}
+.re{
+    width: 350px;
+    height: 460px;
+    background-color: #333333;
+    margin: 20px;
+    text-align: center;
+}
+#df{
+    height: 433px;
+}
+.sas{
+    display: flex;
+    justify-content: center;
+}  
+#das{
+    font-size: 75px;
+    margin-top: 20px;
+}
+a{
+    color: #bac964;
+}
+.xoxox{
+    font-size: 20px   ;
+}
+.pt{
+    width: 350px;
+    height: 230px;
+}
+.rb{
+    width: 350px;
+    height: 500px;
+    background-color: #333333;
+    margin: 20px;
+}
+.za{
+    color: white;
+} 
+.za:hover{
+    color: #bac964;
+    transition: 1s
+}
+.rb:hover{
+    box-shadow: 0 0 50px;
+    transition: 1s  ;
+}
+.red{
+    display: flex;
+    justify-content: left;
+}
+.zab{
+    color:#5a6268;
+    margin: 10px;
+}
+.fan{
+    display: flex;
+    justify-content: center;
+}
+.font{
+    font-size: 17px;
+}
+.zab:hover{
+    color: #bac964;
+    transition: 1s;
+}
+.adh{
+    display: flex;
+    justify-content: center 
+}
+.widht{
+    width: 500px;
+    height: 48px;
+}
+.da{
+    width: 500px;
+    height: 40px;
+    background-color: #333333;
+    border: #333333;
+}
+.hus{
+    width: 173px;
+    height: 50px;
+    background-color:#bac964;
+    border: #bac964;
+    border-radius: 30px;
+}
+.wer{
+    height: 200px;
+    width: 500px;
+    background-color: #333333;
+    border: #333333;
+}
+span{
+    color: #2C3E50;
+}
+.ponf{
+    margin: 20px;
+}
+.sdfg{
+    display: flex;
+    justify-content: center;
+    color: #333;
+}
